@@ -124,5 +124,13 @@ bootstrap 后台模板
 
 
 
+## 30 回顾以及这周的安排
 
-
+- jdbc
+- mybatis
+- druid
+- shiro
+- spring security
+- 异步任务：邮件的返送：安全，重点
+- swagger
+- dubbo+zook
