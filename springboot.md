@@ -1,3 +1,29 @@
+## 3：什么是微服务架构
+
+​		微服务是在开发过程中，把服务拆分成一个一个效地组合。通过http或者是进行互通。
+
+​		all in one：所有的应用服务都放在一个应用中
+
+​		优点：一个人可以做所有，但是不易于扩展
+
+​		all in one,MVC,RPC,SOA
+
+​		比如一个电商系统，查缓存，连接数据库，浏览页面，结账，支付等服务都是一个个独立的功能服务。
+
+​		运维变难了
+
+​		SPRINGBOOT ,SPRINGCLOUD,   SPRING CLOUD DATA FLOW
+
+​		
+
+MVC  三次架构架构view mode controller  MVVM 架构
+
+微服务就是一个一个的业务
+
+service：userService 把一个服务放一个模块，放一个电脑上
+
+springmvc：
+
 ## 4：springboot第一天
 
 打包 直接点击 package   java -jar 名称
