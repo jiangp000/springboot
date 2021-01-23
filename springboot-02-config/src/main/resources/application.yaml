@@ -1,0 +1,12 @@
+person:
+  name: qingjiang
+  age: 3
+  happy: false
+  maps: {k1: v1,k2: v2}
+  lists:
+    - code
+    - music
+    - airl
+  dog:
+    name: wangcai
+    age: 3
